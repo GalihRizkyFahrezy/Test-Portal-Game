@@ -1,0 +1,25 @@
+.title
+{
+    font-weight: bold;
+    font-size: 3em;
+}
+
+.penulis
+{
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.created
+{
+    font-weight: bold;
+    font-size: 1em;
+    color: rgb(203, 203, 203);   
+}
+
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

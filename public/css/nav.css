@@ -1,0 +1,31 @@
+.test01
+{
+    width: 100vw;
+    height: 5vh;
+
+}
+
+.navbar-link
+{
+    font-size: 20px;
+    color: rgb(202, 202, 202);
+    text-decoration: none;
+    border-bottom: solid 3px transparent;
+    transition: 0.1s;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.navbar-link:hover
+{
+    color: hsl(282, 100%, 44%);
+    border-bottom: solid 3px hsl(282, 100%, 44%);
+}
+
+.underline
+{
+    width: 100vw;
+    height: 2px;
+    background-color: hsl(282, 100%, 44%);
+}
+
